@@ -13,5 +13,5 @@ This project analyzes global stock market prices using Microsoft Excel.
 - Market comparison
 
 ## Author
-Dhananjay Uchit
+Dhananjay Uchit |
 MBA Student | SANJIVANI UNIVERSITY
